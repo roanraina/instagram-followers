@@ -1,0 +1,4 @@
+python-dotenv==0.21.0
+instagrapi==1.16.30
+ipykernel==6.19.4
+pillow==9.3.0
